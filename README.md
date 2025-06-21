@@ -300,13 +300,13 @@ mux_con: تعداد کانکشن‌های مولتی‌پلکس (پیش‌فرض
 برای نصب این دستور را اجرا کنید
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/install_utunnel.sh --ipv4)
+bash <(curl -s https://raw.githubusercontent.com/AmirMSH/utunnel/refs/heads/main/install_utunnel.sh --ipv4)
 ```
 
 🤖 نصب ربات تلگرام مونیتورینگ
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/MonitorBotinstall.sh --ipv4)
+bash <(curl -s https://raw.githubusercontent.com/AmirMSH/utunnel/refs/heads/main/MonitorBotinstall.sh --ipv4)
 ```
 پس از اجرا:
 
@@ -320,18 +320,6 @@ bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/m
 
 ما از حمایت شما برای توسعه و بهبود مستمر پروژه قدردانی می‌کنیم:
 
-<div align="center">
-
-| شبکه         | نوع ارز       | آدرس کیف پول                              | آیکون       |
-|--------------|--------------|------------------------------------------|------------|
-| **Tron**     | TRX (TRC20)  | `TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ`     | <img src="https://cryptologos.cc/logos/tron-trx-logo.png" width="20"> |
-| **Ethereum** | USDT (ERC20) | `0xD4cEBA0cFf6769Fb9EFE4606bE59C363Ff85BF76` | <img src="https://cryptologos.cc/logos/tether-usdt-logo.png" width="20"> |
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <p>🙏 از اعتماد و حمایت ارزشمند شما سپاسگزاریم</p>
-  <p>هر میزان کمک مالی، انگیزه‌ای برای توسعه و ارتقای پروژه خواهد بود</p>
 </div>
 
 
